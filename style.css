@@ -45,6 +45,9 @@ h1 {
 
 .vis-container {
     background-color: white;
-    /* margin: 5%; */
+    margin-left: 50px;
+}
 
+.grid-plots img {
+    max-width: 125%;
 }
