@@ -1,0 +1,9 @@
+/* adds color formating to the background */
+body {
+    background:  #e6e6e6;
+}
+
+/* Adds color formating to "Latitude" section of navbar */
+.navbar-brand {
+    background: #9fc4c6;
+}
