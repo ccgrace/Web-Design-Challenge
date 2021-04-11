@@ -3,7 +3,21 @@ body {
     background:  #e6e6e6;
 }
 
-/* Adds color formating to "Latitude" section of navbar */
+/* Adds color and formating to navbar */
 .navbar-brand {
-    background: #9fc4c6;
+    background-color: teal;
+    color: white;
+    padding-right: 3%;
+    padding-left: 3%;
+    margin: 0;
+}
+
+.navbar {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.nav-item {
+    position: relative
+    right: 50px
 }
