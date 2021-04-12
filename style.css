@@ -62,4 +62,7 @@ h1 {
 
 .table-responsive {
     background-color: white;
+    text-align: left;
+    width: 100%;
+    overflow: auto;
 }
