@@ -59,3 +59,7 @@ h1 {
 .card-title{
     color: teal;
 }
+
+.table-responsive {
+    background-color: white;
+}
