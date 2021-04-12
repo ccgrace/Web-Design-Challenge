@@ -10,6 +10,7 @@ body {
     padding-right: 3%;
     padding-left: 3%;
     margin: 0;
+    
 }
 
 .navbar {
@@ -69,4 +70,16 @@ h1 {
     text-align: left;
     width: 100%;
     overflow: auto;
+}
+
+@media only screen and (max-width: 1096px) {
+    .navbar {
+        background-color: teal
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .navbar {
+        background-color: teal
+    }
 }
